@@ -4,7 +4,7 @@ title:  "The Power of CatBoost: Revolutionizing Decision-Making in Machine Learn
 date:   2024-1-8
 desc: ""
 keywords: "Machine Learning,CatBoost,Decision Trees, blog"
-categories: [HTML]
+categories: [Machine Learning]
 tags: [CatBoost, Decision Trees, Machine Learning]
 icon: icon-html
 ---
